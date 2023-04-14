@@ -1,0 +1,19 @@
+.head {
+    background-color: #c8c8fa;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: transparent;
+    box-shadow: 5px 5px 5px lightblue;
+}
+a {
+    color: black;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    color: skyblue;
+}
+a:active {
+    text-decoration: none;
+}
